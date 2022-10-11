@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://dianaj1.github.io/csb-zv42vq/static/css/main.b5b10671.chunk.css",
+    "main.js": "https://dianaj1.github.io/csb-zv42vq/static/js/main.f46aaa3d.chunk.js",
+    "main.js.map": "https://dianaj1.github.io/csb-zv42vq/static/js/main.f46aaa3d.chunk.js.map",
+    "runtime-main.js": "https://dianaj1.github.io/csb-zv42vq/static/js/runtime-main.b9ecba2a.js",
+    "runtime-main.js.map": "https://dianaj1.github.io/csb-zv42vq/static/js/runtime-main.b9ecba2a.js.map",
+    "static/css/2.2f557676.chunk.css": "https://dianaj1.github.io/csb-zv42vq/static/css/2.2f557676.chunk.css",
+    "static/js/2.4bd9c4a8.chunk.js": "https://dianaj1.github.io/csb-zv42vq/static/js/2.4bd9c4a8.chunk.js",
+    "static/js/2.4bd9c4a8.chunk.js.map": "https://dianaj1.github.io/csb-zv42vq/static/js/2.4bd9c4a8.chunk.js.map",
+    "index.html": "https://dianaj1.github.io/csb-zv42vq/index.html",
+    "static/css/2.2f557676.chunk.css.map": "https://dianaj1.github.io/csb-zv42vq/static/css/2.2f557676.chunk.css.map",
+    "static/css/main.b5b10671.chunk.css.map": "https://dianaj1.github.io/csb-zv42vq/static/css/main.b5b10671.chunk.css.map",
+    "static/js/2.4bd9c4a8.chunk.js.LICENSE.txt": "https://dianaj1.github.io/csb-zv42vq/static/js/2.4bd9c4a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ecba2a.js",
+    "static/css/2.2f557676.chunk.css",
+    "static/js/2.4bd9c4a8.chunk.js",
+    "static/css/main.b5b10671.chunk.css",
+    "static/js/main.f46aaa3d.chunk.js"
+  ]
+}
